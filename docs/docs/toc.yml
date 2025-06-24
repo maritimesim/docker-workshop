@@ -8,5 +8,6 @@
 
 - name: Tips
 - href: basic-docker-commands.md
+- href: docker-compose-reference.md
 - href: linux.md
 - href: RabbitMq.md
