@@ -1,6 +1,5 @@
 - name: Get started
 - href: ../index.md
-- href: getting-started.md
 
 - name: Labs
 - href: kodekloud.md
@@ -11,3 +10,6 @@
 - href: docker-compose-reference.md
 - href: linux.md
 - href: RabbitMq.md
+
+- name: Ocean
+- href: ocean-compose-architecture.md
